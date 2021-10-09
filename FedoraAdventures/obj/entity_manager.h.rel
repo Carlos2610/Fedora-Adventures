@@ -1,0 +1,11 @@
+XL2
+H 1 areas 8 global symbols
+S .__.H$L. Def0000
+S .__.ABS. Def0000
+S create_entity Ref0000
+S .__.CPU. Def0000
+S getEntityInArray Ref0000
+S .__.$$$. Def2710
+S getNumEntities Ref0000
+S entity_size Ref0000
+A _CODE size 0 flags 0 addr 0

@@ -1,0 +1,35 @@
+XL2
+H 1 areas C global symbols
+S .__.H$L. Def0000
+S max_entities Def000A
+S .__.ABS. Def0000
+S .__.CPU. Def0000
+S .__.$$$. Def2710
+S entity_size Def0007
+A _CODE size 6D flags 0 addr 0
+S _last_elem_ptr Def0047
+S create_entity Def0052
+S getEntityInArray Def0049
+S _num_entities Def0000
+S getNumEntities Def004E
+S _entity_array Def0001
+T 00 00 07
+R 00 00 00 00
+T 01 00
+R 00 00 00 00
+T 47 00 01 00
+R 00 00 00 00 00 02 00 00
+T 49 00
+R 00 00 00 00
+T 49 00 DD 21 01 00 C9
+R 00 00 00 00 00 04 00 00
+T 4E 00
+R 00 00 00 00
+T 4E 00 3A 00 00 C9
+R 00 00 00 00 00 03 00 00
+T 52 00
+R 00 00 00 00
+T 52 00 ED 5B 47 00 01 07 00 ED B0 3A 00 00 3C 32
+R 00 00 00 00 00 04 00 00 00 0C 00 00
+T 60 00 00 00 2A 47 00 01 07 00 09 22 47 00 C9
+R 00 00 00 00 00 02 00 00 00 05 00 00 00 0C 00 00
